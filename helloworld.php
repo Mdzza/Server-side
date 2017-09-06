@@ -5,3 +5,5 @@ git is free software.
 git 真是个好东西哦！
 in the word
 Git tracks changes.
+Git has a mutable index called stage
+My stupid boss still prefers SVN.
