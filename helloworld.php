@@ -1,5 +1,5 @@
 <?php
 echo "hello world!";
-echo "hello git";
 git is a distributed version control system.
 git is free software.
+git 真是个好东西哦！
